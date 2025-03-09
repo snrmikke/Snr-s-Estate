@@ -1,12 +1,9 @@
-# React + Vite
+Snr's Estate, A (# React + Vite) project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+***check 'popular' section***>>problematic image display
 
-Currently, two official plugins are available:
+Associated files folder>>> 
+  https://drive.google.com/drive/folders/1V1qP4ri0QfGf_uoF8W3VtK5ur7Xb35F9?usp=drive_link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Vercel Website link>>
+  https://real-estate-jybh30g9u-snrmikke-gmailcoms-projects.vercel.app
